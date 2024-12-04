@@ -4,50 +4,46 @@
 Hello! I'm Flavio Mangione, a passionate developer and tech enthusiast. Here, you'll find a collection of projects that showcase my growth and exploration in various domains of technology. 🚀  
 
 ---
+![Descrizione GIF](https://giffiles.alphacoders.com/756/75682.gif)
 
+---
 ## 💡 **About Me**  
 - 🎯 Constantly striving to learn and innovate.  
 - 🔍 Exploring the intersections of technology, creativity, and impact.  
-- 🌱 Currently diving deeper into **[specific tech or field of interest, e.g., AI, Web Development, etc.]**.  
+- 📚 Currently I'm studying Data Science in Sapienza University of Roma 
 
 ---
 
 ## 🛠️ **Skills & Tools**  
+
 ### **Languages:**  
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white&style=flat)  
-*(Add more relevant languages here)*  
+![Rstudio](https://www.r-project.org/logo/Rlogo.svg)  
 
-### **Technologies & Frameworks:**  
-![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=flat)  
-![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white&style=flat)  
-![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white&style=flat)  
-*(Add more tools or frameworks you use)*  
 
----
+### **Libraries & Frameworks:**  
+#### **Data Science & Machine Learning:**  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)  
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?logo=python&logoColor=white&style=flat)  
+![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)  
 
-## 🚀 **Highlighted Projects**  
-Here are a few of my favorite projects:  
-- 🌐 **[Project Name 1](#)**: A brief description of the project.  
-- 🤖 **[Project Name 2](#)**: A brief description of the project.  
-- 📱 **[Project Name 3](#)**: A brief description of the project.  
+#### **Data Visualization:**  
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white&style=flat)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?logo=plotly&logoColor=white&style=flat)    
 
-*(Add links to your repositories or projects with short descriptions)*  
+### **Technologies & Tools:**  
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0078d7?logo=visual-studio-code&logoColor=white&style=flat)  
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)  
+![RStudio](https://img.shields.io/badge/-RStudio-75AADB?logo=rstudio&logoColor=white&style=flat)  
 
----
-
-## 🎯 **What’s Next?**  
-- 🚀 Building solutions that make a difference.  
-- 🌍 Collaborating on open-source projects.  
-- 📚 Continuously growing and sharing knowledge with the community.  
 
 ---
 
-## 📫 **Get in Touch**  
-- 📧 Email: [flavio.mangione@example.com](mailto:flavio.mangione@example.com)  
-- 💼 LinkedIn: [linkedin.com/in/flavio-mangione](#)  
-- 🌐 Portfolio: [flaviomangione.com](#)  
+## **Useful links**  
+- 💼 LinkedIn: [linkedin.com/in/flavio-mangione](https://www.linkedin.com/in/flavio-mangione-887003289/)  
 
 ---
 
