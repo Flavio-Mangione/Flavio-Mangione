@@ -2,14 +2,12 @@
 
 Hello! I'm **Flavio Mangione**, a passionate developer and tech enthusiast. Here, you'll find a collection of projects that showcase my growth and exploration in various domains of technology. 🚀  
 Let's explore the intersection of tech and creativity together!  
-
 ---
 ## **About Me**  
 - Always learning: Constantly striving to innovate and expand my knowledge;
 - Tech & Creativity: Exploring the intersections of technology, creativity, and real-world impact;  
 - Currently I'm studying Data Science in Sapienza University of Rome.
 ---
-
 ## **Programming languages**  
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=for-the-badge) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge)
 
@@ -18,7 +16,9 @@ Let's explore the intersection of tech and creativity together!
 
 ## **Tools**  
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0078d7?logo=visual-studio-code&logoColor=white&style=for-the-badge) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge) ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?logo=rstudio&logoColor=white&style=for-the-badge)
+
 ---
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Flavio-Mangione&show_icons=true&count_private=true&hide_title=true&theme=radical)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flavio-Mangione&layout=compact&theme=radical)  
