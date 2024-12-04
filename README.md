@@ -4,7 +4,7 @@
 Hello! I'm Flavio Mangione, a passionate developer and tech enthusiast. Here, you'll find a collection of projects that showcase my growth and exploration in various domains of technology. 🚀  
 
 ---
-![Descrizione GIF](https://giffiles.alphacoders.com/756/75682.gif)
+![Descrizione GIF](https://cdn-images-1.medium.com/max/853/1*xZrSvUrS-6zQQBfevGed2w.gif)
 
 ---
 ## 💡 **About Me**  
@@ -18,7 +18,7 @@ Hello! I'm Flavio Mangione, a passionate developer and tech enthusiast. Here, yo
 
 ### **Languages:**  
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat)  
-![Rstudio](https://www.r-project.org/logo/Rlogo.svg)  
+![Rstudio](https://img.shields.io/badge/-RStudio-75AADB?logo=rstudio&logoColor=white&style=flat)  
 
 
 ### **Libraries & Frameworks:**  
@@ -38,7 +38,6 @@ Hello! I'm Flavio Mangione, a passionate developer and tech enthusiast. Here, yo
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0078d7?logo=visual-studio-code&logoColor=white&style=flat)  
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)  
 ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?logo=rstudio&logoColor=white&style=flat)  
-
 
 ---
 
