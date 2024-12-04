@@ -36,12 +36,6 @@ Let's explore the intersection of tech and creativity together!
 ### **Top Languages**  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flavio-Mangione&layout=compact&theme=radical)  
 
-### **Contributions Calendar**  
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Flavio-Mangione&theme=radical)  
-
-### **Commit Activity**  
-![Commit Activity](https://img.shields.io/github/commit-activity/y/Flavio-Mangione?style=flat&color=blue)  
-
 ---
 ## **Useful Links**  
 - 💼 **LinkedIn**: [linkedin.com/in/flavio-mangione](https://www.linkedin.com/in/flavio-mangione-887003289/)  
