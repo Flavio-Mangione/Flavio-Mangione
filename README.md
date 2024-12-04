@@ -1,19 +1,16 @@
 # 👋 **Welcome to My GitHub!**
 
-## 🌟 **Flavio Mangione**
 Hello! I'm **Flavio Mangione**, a passionate developer and tech enthusiast. Here, you'll find a collection of projects that showcase my growth and exploration in various domains of technology. 🚀  
 Let's explore the intersection of tech and creativity together!  
 
 ---
-
 ## **About Me**  
 - Always learning: Constantly striving to innovate and expand my knowledge;
 - Tech & Creativity: Exploring the intersections of technology, creativity, and real-world impact;  
 - Currently I'm studying Data Science in Sapienza University of Rome.
-
 ---
 
-## 🛠️ **Skills & Tools**  
+## **Skills**  
 
 ### **Languages:**  
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=for-the-badge) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge)
