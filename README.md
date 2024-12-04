@@ -10,7 +10,7 @@ Let's explore the intersection of tech and creativity together!
 - Currently I'm studying Data Science in Sapienza University of Rome.
 ---
 ## **Programming languages**  
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=for-the-badge) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge)
 
 ## **Libraries**  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge) ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?logo=python&logoColor=white&style=for-the-badge) ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?logo=plotly&logoColor=white&style=for-the-badge)![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-7D7D7D?logo=beautifulsoup&logoColor=white&style=for-the-badge) ![NLTK](https://img.shields.io/badge/-NLTK-FF5F00?logo=nltk&logoColor=white&style=for-the-badge) ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=for-the-badge)  
