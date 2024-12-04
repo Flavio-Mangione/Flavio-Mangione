@@ -20,7 +20,5 @@ Let's explore the intersection of tech and creativity together!
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Flavio-Mangione&show_icons=true&count_private=true&hide_title=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flavio-Mangione&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Flavio-Mangione&show_icons=true&count_private=true&hide_title=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flavio-Mangione&layout=compact&theme=radical)  
 
