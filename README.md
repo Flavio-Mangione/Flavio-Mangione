@@ -4,9 +4,6 @@
 Hello! I'm Flavio Mangione, a passionate developer and tech enthusiast. Here, you'll find a collection of projects that showcase my growth and exploration in various domains of technology. 🚀  
 
 ---
-![Descrizione GIF](https://cdn-images-1.medium.com/max/853/1*xZrSvUrS-6zQQBfevGed2w.gif)
-
----
 ## 💡 **About Me**  
 - 🎯 Constantly striving to learn and innovate.  
 - 🔍 Exploring the intersections of technology, creativity, and impact.  
