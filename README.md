@@ -2,6 +2,7 @@
 
 Hello! I'm **Flavio Mangione**, a passionate developer and tech enthusiast. Here, you'll find a collection of projects that showcase my growth and exploration in various domains of technology. 🚀  
 Let's explore the intersection of tech and creativity together!  
+
 ---
 ## **About Me**  
 - Always learning: Constantly striving to innovate and expand my knowledge;
