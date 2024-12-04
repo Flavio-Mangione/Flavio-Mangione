@@ -1,4 +1,4 @@
-# 👋 **Welcome to My GitHub!**
+# **Welcome to My GitHub!**
 
 Hello! I'm **Flavio Mangione**, a passionate developer and tech enthusiast. Here, you'll find a collection of projects that showcase my growth and exploration in various domains of technology. 🚀  
 Let's explore the intersection of tech and creativity together!  
