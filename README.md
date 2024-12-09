@@ -6,7 +6,7 @@ Let's explore the intersection of tech and creativity together!
 ---
 ## **About Me**  
 - Always learning and striving to innovate and expand my knowledge;
-- Exploring the intersections of technology, creativity, and real-world impact;  
+- Exploring the intersections of technology, creativity and real world impact;  
 - Currently I'm studying Data Science in Sapienza University of Rome.
 ---
 ## **Programming languages**  
