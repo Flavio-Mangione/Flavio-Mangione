@@ -18,7 +18,5 @@ Let's explore the intersection of tech and creativity together!
 ## **Tools**  
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0078d7?logo=visual-studio-code&logoColor=white&style=for-the-badge) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge) ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?logo=rstudio&logoColor=white&style=for-the-badge)
 
----
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Flavio-Mangione&show_icons=true&count_private=true&hide_title=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flavio-Mangione&layout=compact&theme=radical)  
 
