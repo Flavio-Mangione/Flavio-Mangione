@@ -69,22 +69,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Flavio-Mangione&theme=github-compact&hide_border=true&area=true&color=58c4dc&line=58c4dc&point=ffffff" />
 </p>
 
----
 
-## Let's Connect
-
-<p align="center">
-  <a href="https://github.com/Flavio-Mangione">
-    <img src="https://img.shields.io/badge/GitHub-Flavio--Mangione-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Flavio-Mangione&style=flat-square&color=58c4dc" alt="Profile views"/>
-</p>
-
-<p align="center">
-  <i>// always learning. always building.</i>
-</p>
