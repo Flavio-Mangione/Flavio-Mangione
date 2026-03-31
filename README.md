@@ -27,13 +27,12 @@
 </p>
 
 ### ML / DL Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-PyTorch-E74C3C?logo=pytorch&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" />
 </p>
 
 ### Data & Visualization
