@@ -60,12 +60,4 @@
 </p>
 
 
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Flavio-Mangione&theme=github-compact&hide_border=true&area=true&color=58c4dc&line=58c4dc&point=ffffff" />
-</p>
-
 
