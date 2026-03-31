@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58C4DC&width=600&center=true&lines=Hey+there!+I'm+Flavio+Mangione+👋;." />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58C4DC&width=600&lines=Hey+there!+I'm+Flavio+Mangione+👋;.)](https://git.io/typing-svg)
 
 ---
 
@@ -16,11 +12,6 @@
 ---
 
 ## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Flavio-Mangione&show_icons=true&theme=github_dark&hide_border=true&border_radius=10" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flavio-Mangione&layout=compact&theme=github_dark&hide_border=true&border_radius=10" height="165"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Flavio-Mangione&theme=github-dark-blue&hide_border=true&border_radius=10" />
