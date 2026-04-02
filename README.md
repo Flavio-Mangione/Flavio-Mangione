@@ -42,13 +42,13 @@
   <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-SciPy-00008b?logo=scipy&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Seaborn-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-115161?logo=matplotlib&Color=white&style=for-the-badge"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Seaborn-365A91?logo=seaborn&Color=white&style=for-the-badge"/>
 </p>
 
 ### NLP & Web
 <p align="center">
-  <img src="https://img.shields.io/badge/-NLTK-FF5F00?logo=nltk&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLTK-FF5F00?logo=nltk&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-BeautifulSoup-B200ED?logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Requests-32cd32?logoColor=white&style=for-the-badge"/>
 </p>
