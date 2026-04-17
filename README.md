@@ -19,7 +19,7 @@
 
 ---
 
-## Tech Stack
+## Programming Stats
 
 ### Languages
 <p align="center">
